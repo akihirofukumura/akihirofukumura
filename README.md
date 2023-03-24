@@ -1,6 +1,6 @@
 # Hi I'm Akihiro Fukumura👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akihirofukumura&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akihirofukumura&layout=compact)
 (https://github.com/akihirofukumura/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akihirofukumura)
 (https://github.com/anuraghazra/github-readme-stats)
