@@ -1,4 +1,4 @@
-# Hi I'm Akihiro Fukumura👋
+# Hi,I'm Akihiro Fukumura👋
 ## I wanna go to study abroad at student.
 ## I decide to try commit everyday.
 
