@@ -1,5 +1,5 @@
 # Hi I'm Akihiro Fukumura👋
-## I wenna go to study abroad.
+## I wanna go to study abroad at student.
 ## I decide to try commit everyday.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akihirofukumura&layout=compact)
